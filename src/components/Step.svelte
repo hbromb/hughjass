@@ -1,4 +1,4 @@
-<script>
+<script></script>
     export let step;
 </script>
 
